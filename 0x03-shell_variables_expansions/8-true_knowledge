@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($TUREKNOWLEDGE+128))
+export TUREKNOWLEDGE=1209 | echo $(($TUREKNOWLEDGE+128))
